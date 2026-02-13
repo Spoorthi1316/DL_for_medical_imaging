@@ -1,6 +1,6 @@
 **Andra Spoorthi (CS23B1007)**  
-B.Tech – computer science
-Indian Institute of Information Technology, Raichur 
+B.Tech – computer science   
+ Indian Institute of Information Technology, Raichur 
 
 # Project 1: Brain Tumor Segmentation using Thresholding
 
